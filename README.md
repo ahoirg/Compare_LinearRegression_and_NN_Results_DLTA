@@ -1,6 +1,6 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-# Compare_LinearRegression_and_NN_Results_DLTA
+# Compare Linear Regression and Neural Network Results DLTA
 Deep Learning and Text Analysis: Compare Linear Regression and Neural Network Results
 
 
